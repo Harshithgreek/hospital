@@ -2,15 +2,15 @@
 "doctors" :[
   {
     "name": "Dr.Chopper",
-    "salary": "1000",
+    "salary": "100000",
     "gender": "Male",
-    "age": "17",
-    "specialization": "Everything",
+    "age": "27",
+    "specialization": "dermotologist",
     "id": 1
   },
   {
     "name": "Dr.Harshith",
-    "salary": "100000",
+    "salary": "200000",
     "gender": "Male",
     "age": "23",
     "specialization": "Neuro",
